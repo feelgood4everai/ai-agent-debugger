@@ -237,7 +237,6 @@ MIT - Use it, modify it, deploy it in production.
 Need help deploying multi-agent systems in production?
 
 - **Consulting**: Architecture review, debugging, optimization
-- **Rate**: £650-750/day
 - **Availability**: Q2 2026
 - **Contact**: [LinkedIn](https://linkedin.com/in/anandbg)
 
