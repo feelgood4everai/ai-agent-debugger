@@ -1,0 +1,9 @@
+{
+  "name": "ai-agent-debugger",
+  "title": "AI Agent Debugger",
+  "created": "2026-02-25T13:38:00",
+  "github_url": "https://github.com/feelgood4everai/ai-agent-debugger",
+  "huggingface_url": "https://huggingface.co/spaces/AnandGeetha/ai-agent-debugger",
+  "tags": ["AI-agents", "debugging", "LangChain", "observability"],
+  "next_action": "Deploy to Hugging Face Space"
+}
